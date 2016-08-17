@@ -4,12 +4,26 @@
         <div class="container">
             <div class="row">
                 <div class="footer-col col-md-4">
-                    <h3>Location</h3>
+                    <h3>Dirección</h3>
                     <p>{{ site.address_street }}
                         <br>{{ site.address_city }}, {{ site.address_state }} {{ site.address_zip }}</p>
                 </div>
+		
+		<div class="footer-col col-md-4">
+                    <h3>Tel&eacutefonos</h3>
+			{% if site.movil %}
+			<p>{{ site.fijo }}</p>
+			{% endif %}
+			{% if site.fijo %}
+                        <p>{{ site.movil }}</p>
+                        {% endif %}
+
+			
+		</div>
+
+
                 <div class="footer-col col-md-4">
-                    <h3>Around the Web</h3>
+                    <h3>En las redes sociales</h3>
                     <ul class="list-inline">
                         {% if site.facebook_username %}
                         <li>
@@ -54,8 +68,8 @@
                     </ul>
                 </div>
                 <div class="footer-col col-md-4">
-                    <h3>About {{ site.title }}</h3>
-                    <p><a href="http://startbootstrap.com">Start Bootstrap</a> is an open source library of Bootstrap themes and templates.</p>
+                    <h3>Sobre {{ site.title }}</h3>
+                    <p><a href="http://startbootstrap.com">{{ site.title }}</a> {{ site.description2 }}.</p>
                 </div>
             </div>
         </div>
@@ -64,7 +78,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    Copyright &copy; Your Website {{ site.time | date: "%Y" }}
+                    Copyright &copy; {{ site.title }} {{ site.time | date: "%Y" }}
                 </div>
             </div>
         </div>
