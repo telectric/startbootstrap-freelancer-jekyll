@@ -9,7 +9,7 @@
 title: Telectric Ingeniería
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Proyectos - Instalaciones - Integradores 
+  Proyectos - Instalaciones - Integración de servicios 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
