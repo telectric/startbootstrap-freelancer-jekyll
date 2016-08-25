@@ -10,12 +10,15 @@
                 </div>
 		
 		<div class="footer-col col-md-4">
-                    <h3>Tel&eacutefonos</h3>
+                    <h3>Contactos</h3>
 			{% if site.movil %}
 			<p>{{ site.fijo }}</p>
 			{% endif %}
 			{% if site.fijo %}
                         <p>{{ site.movil }}</p>
+                        {% endif %}
+                        {% if site.correo %}
+                        <p>{{ site.correo }}</p>
                         {% endif %}
 
 			
@@ -69,7 +72,7 @@
                 </div>
                 <div class="footer-col col-md-4">
                     <h3>Sobre {{ site.title }}</h3>
-                    <p><a href="http://startbootstrap.com">{{ site.title }}</a> {{ site.description2 }}.</p>
+                    <p><a href="http://www.telectric.es">{{ site.title }}</a> {{ site.description2 }}.</p>
                 </div>
             </div>
         </div>
