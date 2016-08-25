@@ -28,10 +28,10 @@ movil: 666 333 111
 correo: info arroba telectric punto es
 
 # Address information
-address_street: C/General Moscardó Guzman
-address_city: Guadalajara
+address_street: C/General Moscardó
+address_city: Arriaka
 address_state: España
-address_zip: 19007
+address_zip: 112
 
 # Build settings
 markdown: kramdown
