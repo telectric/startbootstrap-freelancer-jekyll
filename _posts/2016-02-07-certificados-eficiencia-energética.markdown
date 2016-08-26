@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Te obliga la ley y nosotros lo hacemos fácil y barato"
+title:  "Le obliga la ley y nosotros lo hacemos rápido y barato"
 date:   2016-02-08 15:08:10 -0500
 img: img/certificados_ee.png
 modalID: modalGame
