@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Te obliga la ley y nosotros lo hacemos fácil y barato"
-date:   2016-02-08 15:08:10 -0500
-img: img/certificados_ee.png
-modalID: modalGame
+title:  "O cómo ahorrar dinero en las facturas energéticas"
+date:   2016-02-07 15:08:10 -0500
+img: img/auditoria_ee.png
+modalID: modalSubmarine
 category: Design
 ---
 El Certificado de Eficiencia Energética es un documento que describe lo eficaz que es una vivienda en cuanto al consumo de energía y que es obligatorio para todas las viviendas que se alquilen o vendan en España a partir de 1 DE JUNIO DE 2013.
