@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Monitorización y control"
+date:   2016-02-03 15:08:10 -0500
+img: img/monitor.png
+modalID: modalGame
+category: Design
+---
+
+Detector de incendios · Detector de inundación · Electroválvulas · Alarmas · Monitor de consumo eléctrico · Estación meteorológica

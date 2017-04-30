@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Climatización y energía"
+date:   2016-02-05 15:08:10 -0500
+img: img/clima.png
+modalID: modalCake
+category: Design
+---
+
+Bombas de agua · Radiadores · Calderas · Electroválvula · Splits · Termómetros · Sensores de apertura de puertas y ventanas · Termosolar · Fotovoltaica
