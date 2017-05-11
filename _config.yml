@@ -9,7 +9,7 @@
 title: Atelia Tecnología S.L.
 email: info@atelia.es
 description: > # this means to ignore newlines until "baseurl:" #Ingeniería — Instalaciones — Integración
-  Ingeniería · Instalaciones · Integración
+Proyectos · Instalaciones · Servicios
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.atelia.es" # the base hostname & protocol for your site
 
