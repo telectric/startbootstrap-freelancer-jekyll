@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Servicios"
+title:  "Servicios e integraciones"
 date:   2016-02-01 15:08:10 -0500
 img: img/proyectos.png
 modalID: modalSubmarine
