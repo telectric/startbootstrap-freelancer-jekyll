@@ -1,14 +1,24 @@
 # Site settings
 #title: "Bitácora de Factores"
-title: "Factores"
+title: "Atelia"
 #email: info@factores.es
 lema: La libertad es hacer y se aprende haciendo
-description: "Por ignorantes erramos, mas de los errores aprendemos"
+description: "Atelia Tecnología"
 baseurl: ""
 url: ""
-twitter_username: factores_es
-github_username:  factores
+#twitter_username: factores_es
+#github_username:  factores
 # Build settings
+
+fijo: 949 22 22 22
+movil: 666 333 111
+correo: info arroba atelia punto es
+
+address_street: C/General Moscardó Guzman
+address_city: Guadalajara
+address_state: España
+address_zip: 19007
+
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
