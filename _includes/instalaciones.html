@@ -10,6 +10,7 @@
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
                     {% for post in site.posts %}
+			{% if post.categories contains 'instalaciones' or post.categories contains 'Instalaciones'%}
                     <div class="col-sm-4 portfolio-item">
                         <a href="#{{ post.modalID }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
@@ -20,6 +21,7 @@
                             <img src="{{ site.baseurl }}/{{ post.img }}" class="img-responsive" alt="">
                         </a>
                     </div>
+			{% endif %}
                 {% endfor %}
 
                 </div>
