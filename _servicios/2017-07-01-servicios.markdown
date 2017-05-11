@@ -7,4 +7,4 @@ modalID: modalSubmarine
 category: Design
 ---
 
-Infraestructura común de telecomunicaciones · Licencia de apertura · Certificación energética · Proyecto eléctrico en local de pública concurrencia · Automatización y hogar digital · Auditoría energética
+Seguridad informática · Cortafuegos · Voz sobre IP
